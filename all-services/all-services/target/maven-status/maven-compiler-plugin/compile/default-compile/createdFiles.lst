@@ -1,0 +1,13 @@
+com\hyper\pojo\Services.class
+com\hyper\DTO\ServiceResponseDTO.class
+com\hyper\feign\ServiceProviderClient.class
+com\hyper\all_services\AllServicesApplication.class
+com\hyper\service\ServicesImpl.class
+com\hyper\service\ServicesI.class
+com\hyper\repository\ServiceRepository.class
+com\hyper\DTO\ProviderResponseDTO.class
+com\hyper\controller\ServicesController.class
+com\hyper\Exception\ApiException.class
+com\hyper\pojo\BaseEntity.class
+com\hyper\pojo\ApiResponse.class
+com\hyper\DTO\ServiceRequestDTO.class
